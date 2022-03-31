@@ -2,7 +2,7 @@
 
 Followed along with Traversy Media Tailwind walkthrough on creating a website utilizing Tailwind (https://www.youtube.com/watch?v=NRagrTU_v8o)
 
-Live Demo: 
+Live Demo: https://animated-travesseiro-91a308.netlify.app/
 
 Learned more about properly setting up Tailwind, config file, etc.,
 
